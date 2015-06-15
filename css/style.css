@@ -1,0 +1,61 @@
+html, body{
+	height: 100%;
+	margin: 0px;
+}
+/* Tableaux */
+
+table
+{
+    border-collapse: collapse; 
+    width: 100%;
+    height: 100%;
+}
+
+
+td
+{
+    /*border: 1px solid black;
+    height: 100px;
+    width: 100px;*/
+    font-size: 10em;
+	text-shadow : 
+		4px 4px 2px rgba(0,0,0,.3),
+		4px 4px 2px rgba(0,0,255,.3);
+}
+
+.case1{
+	background-color: white;
+}
+
+.case2{
+	background-color: black;
+}
+
+.case3{
+	background-color: red;
+}
+
+.case4{
+	background-color: yellow;
+}
+
+.case5{
+	background-color: green;
+}
+
+.case6{
+	background-color: blue;
+}
+
+.case7{
+	background-color: pink;
+}
+
+.case8{
+	background-color: purple;
+}
+
+.case9{
+	background-color: orange;
+}
+
